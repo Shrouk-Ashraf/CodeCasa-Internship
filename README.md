@@ -4,13 +4,13 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for using Stopwatch and Timer Classes in flutter.
 
-A few resources to get you started if this is your first Flutter project:
+Features:
+-
+1) Stop, Start, Reset time.
+2) Save time in a list.
+3) Implement formatTime method to return time in form '00:00:00'.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/Shrouk-Ashraf/CodeCasa/assets/68174886/8eb3d1ba-4220-46e7-937d-7d7ac6f6fe31
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
